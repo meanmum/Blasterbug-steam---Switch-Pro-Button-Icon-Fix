@@ -17,9 +17,13 @@ They may be simply be plugging in an 8bit-do controller (which might be automati
 Or, they may be using an Xbox or Playstation controller, but simply wish to see the Nintendo icons associated with the expected positional buttons.
 
 
-This mod consists of a replacement 'data.win' file, with the icononography corrected.
-To install, right click on the game in your steam library and click on 'Browse Local Files'.
-Replace the unmodded data.win file that's in this folder with the modded data.win file from this project page.
+This mod consists of a replacement 'data.win' file with the icononography corrected.
+
+1. Download the data.zip file on this project's page.
+2. Extract the data.win file from the data.zip file downloaded.
+3. Copy this data.win file.
+4. Right click on the Blasterbugs game in your steam library and click on 'Browse Local Files' to view the game's directory.
+5. Replace the unmodded data.win file within this folder with the modded data.win file from this project page by pasting the data.win filed you copied earlier.
 (I highly recommend backing up the original data.win file, though reinstalling the game would restore it just the same)
 
 That's it.
